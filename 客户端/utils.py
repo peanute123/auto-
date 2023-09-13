@@ -8,7 +8,6 @@ import json
 import cv2 
 import base64
 
-
 url = "https://animated-orbit-rwxpw7p6v6v3p6qw-5000.app.github.dev/ocr" 
 headers = {'content-type': "application/json"}
 ###np 图片编码成base64形式
